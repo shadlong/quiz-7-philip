@@ -7,7 +7,7 @@ const Header = () => {
 
   return (
     <header className="p-4 flex justify-between items-center border-b">
-      <h1 className="text-xl font-bold">My App</h1>
+      <h1 className="text-xl font-bold">My Store</h1>
       <div className="flex gap-2">
         <button
           onClick={toggleTheme}
